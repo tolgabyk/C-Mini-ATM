@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\visual studio\Mini ATM\Mini ATM\bin\Debug\Mini ATM.exe.config
+C:\Users\USER\Desktop\visual studio\Mini ATM\Mini ATM\bin\Debug\Mini ATM.exe
+C:\Users\USER\Desktop\visual studio\Mini ATM\Mini ATM\bin\Debug\Mini ATM.pdb
+C:\Users\USER\Desktop\visual studio\Mini ATM\Mini ATM\obj\Debug\Mini ATM.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\visual studio\Mini ATM\Mini ATM\obj\Debug\Mini ATM.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\visual studio\Mini ATM\Mini ATM\obj\Debug\Mini ATM.exe
+C:\Users\USER\Desktop\visual studio\Mini ATM\Mini ATM\obj\Debug\Mini ATM.pdb
